@@ -1,0 +1,1 @@
+ C:\\Users\\ouken\\Desktop\\NovasTravelsClient-1\\novas_travels\\.dart_tool\\flutter_build\\b55bc617fd396e375ef0210403f3b125\\dart_build_result.json: 
