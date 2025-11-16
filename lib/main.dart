@@ -48,7 +48,6 @@ class NovasTravelsApp extends StatelessWidget {
   }
 }
 
-///Revisa si el usuario ya inició sesión
 class AuthCheck extends StatefulWidget {
   const AuthCheck({super.key});
 
