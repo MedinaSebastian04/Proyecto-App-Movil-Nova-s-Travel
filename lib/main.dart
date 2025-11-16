@@ -48,7 +48,11 @@ class NovasTravelsApp extends StatelessWidget {
   }
 }
 
+<<<<<<< HEAD
 /// ✅ Esta clase revisa si el usuario ya inició sesión
+=======
+///Revisa si el usuario ya inició sesión
+>>>>>>> d325a44 (creación sección datos pasajeros y asientos)
 class AuthCheck extends StatefulWidget {
   const AuthCheck({super.key});
 
